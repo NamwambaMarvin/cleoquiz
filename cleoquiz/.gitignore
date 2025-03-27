@@ -1,0 +1,11 @@
+# django generated cache folders
+__pycache__
+
+# All compiled python files
+*.pyc
+
+# Ignore database files
+*.sqlite3
+
+# Files greated on database migrations
+migrations
